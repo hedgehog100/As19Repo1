@@ -7,4 +7,9 @@ function blahblah(){
  function blah(){
    echo "blah";
  }
+
+function mergeTheSecond(){
+    echo "Merged the second";    
+}
+
 ?>
