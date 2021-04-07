@@ -18,6 +18,8 @@ function mergeTheSecond(){
 
 function merge3(){
     echo "Merge 3";
+function mergeTheThird(){
+    echo "This is third merge";
 }
 
 ?>
