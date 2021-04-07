@@ -12,4 +12,8 @@ function blahblah(){
  function mergeTheSecondVSCode(){
     echo "VSCODE";
  }
+function mergeTheSecond(){
+    echo "Merged the second";    
+}
+
 ?>
